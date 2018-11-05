@@ -1,8 +1,6 @@
 # TELEIOS
 
-Version 1.0_a
-
-Author: Thiago Monteiro
+Version 1.0
 
 Working on a new version with multitasking support
 
